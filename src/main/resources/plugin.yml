@@ -1,0 +1,12 @@
+name: PlayerHome
+version: '${project.version}'
+main: skh6075.playerhome.PlayerHome
+api-version: 1.19
+authors: [ skh6075 ]
+website: https://github.com/skh6075
+
+commands:
+  셋홈:
+    description: 셋홈 명령어입니다.
+  홈:
+    description: 홈 명령어입니다.
